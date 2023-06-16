@@ -11,17 +11,15 @@ This device is a specially designed desk phone primarily intended for use on TV 
 
 ## Hardware Images
 
-![](./intructions/images/Subject.png)
-
-![](./intructions/images/Subject2.png)
+Top Side            |  Under Side
+:-------------------------:|:-------------------------:
+![](./intructions/images/Subject2.png) |  ![](./intructions/images/Subject.png)
 
 ## Web interface Images
 
-![](./intructions/images/IMG6890.png)
-
-![](./intructions/images/IMG6891.png)
-
-![](./intructions/images/IMG6892.png)
+Toggle switches            |  custom screen vairables |  WS SSID and PW
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./intructions/images/IMG6890.png) |  ![](./intructions/images/IMG6891.png) | ![](./intructions/images/IMG6892.png)
 
 
 ## Software Features
