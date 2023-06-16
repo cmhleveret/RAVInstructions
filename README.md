@@ -17,11 +17,11 @@ This device is a specially designed desk phone primarily intended for use on TV 
 
 ## Web interface Images
 
-![](./intructions/images/IMG_6890.png)
+![](./intructions/images/IMG6890.png)
 
-![](./intructions/images/IMG_6891.png)
+![](./intructions/images/IMG6891.png)
 
-![](./intructions/images/IMG_6892.png)
+![](./intructions/images/IMG6892.png)
 
 
 ## Software Features
